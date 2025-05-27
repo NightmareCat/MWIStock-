@@ -1,6 +1,6 @@
 # 牛牛炒股
 ## 简介
-牛牛可爱捏
+用于MWI的数据监控软件
 ## 安装
 ```bash
 pip install -r requirements.txt
